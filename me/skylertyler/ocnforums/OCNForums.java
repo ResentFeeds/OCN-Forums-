@@ -1,4 +1,4 @@
-package me.tyler.ocnforums;
+package me.skylertyler.ocnforums;
 
   public class OCNForums {
       
